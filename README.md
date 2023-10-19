@@ -44,14 +44,15 @@ Here are some of the benefits of using xFUND :
 - **'Interoperable:'** The Flare Network is interoperable with other blockchains, which means that FundME can be used to raise funds for projects that are built on other blockchains and users can donate or accept any cryptocurrency.
 - **'Cheap:'** The fees on the Flare Network are very low, which makes xFUND a more affordable option than traditional crowdfunding platforms.
 
+#### xFUND mobile demo: 
+
+https://drive.google.com/file/d/1UO1dhx9NxXDwbIXfs6yIuqfg7NRKDlPm/view?usp=share_link
+
 
 #### Working Prototype is available here:
 
-
-
 Desktop Version: 
 https://www.figma.com/proto/VU6Mt73eAQp8VZ7PBeVm8Z/xFUND-(Flare)---desktop?type=design&node-id=133-1248&t=VEUVyxO0cHra6TnP-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=133%3A1253&mode=design
-
 
 Mobile version:
 https://www.figma.com/proto/nzBTP5M7ezDeBH7b4FfUxF/Xfund---mobile?type=design&node-id=1-95&t=WXhAYs1dFU0JpwHe-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A95&mode=design
